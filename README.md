@@ -1,6 +1,6 @@
 # FuelIQ Analytics — End-to-End Fuel Price Analytics System
 
-> **DATA 226 · Group 9 · Kshitija Shinde, Vincent Do, Sanjana Thummalapalli**
+> **DATA 226 - Kshitija Shinde**
 
 An automated, end-to-end pipeline that ingests real-world fuel price data, transforms it with dbt, forecasts future prices using Snowflake ML, and visualizes everything in an interactive Preset dashboard.
 
